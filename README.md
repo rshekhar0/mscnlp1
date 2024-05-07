@@ -89,3 +89,77 @@ c. Malt parsing: Parse a sentence and draw a tree using malt parsing.
 
 **Readme Format for GitHub:**
 The lab manual provides a structured approach to learning Natural Language Processing (NLP) techniques. Each practical introduces fundamental concepts and provides hands-on exercises using Python and relevant libraries such as NLTK, spaCy, and Gensim. The manual covers tasks ranging from basic text processing to advanced topics like part-of-speech tagging, named entity recognition, and finite state automata. It also includes instructions for setting up the environment, including necessary installations and configurations.
+
+# Required Libraries Installation Guide
+
+1. **Update pip:**
+    ```
+    pip install --upgrade pip
+    ```
+
+2. **NLTK Installation:**
+    ```
+    pip install --user -U nltk
+    ```
+
+3. **NumPy Installation:**
+    ```
+    pip install --user -U numpy
+    ```
+
+4. **Speech Recognition Installation:**
+    ```
+    pip3 install SpeechRecognition pydub
+    ```
+
+5. **Gensim Installation:**
+    ```
+    pip install gensim
+    ```
+
+6. **spaCy Installation:**
+    ```
+    pip install spacy
+    ```
+    ```
+    python -m spacy download en_core_web_sm
+    ```
+    ```
+    python -m spacy download en
+    ```
+
+7. **Keras Installation:**
+    ```
+    pip install keras
+    ```
+
+8. **TensorFlow Installation:**
+    ```
+    pip install tensorflow
+    ```
+
+9. **PyTorch Installation:**
+    ```
+    pip install torch==1.3.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+    ```
+
+10. **Indian Language Toolkit (INltk) Installation:**
+    ```
+    pip install inltk
+    ```
+
+11. **Tornado Installation:**
+    ```
+    pip install tornado==4.5.3
+    ```
+
+12. **Pandas Installation:**
+    ```
+    pip install pandas
+    ```
+
+13. **Scikit-learn Installation:**
+    ```
+    pip install sklearn
+    ```
+
