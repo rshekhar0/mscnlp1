@@ -1,4 +1,4 @@
-Natural Language Processing Lab Manual 
+#Natural Language Processing Lab Manual 
 University of Mumbai
 Practical No. 1:
 a) Install NLTK
