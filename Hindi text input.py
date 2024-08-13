@@ -1,0 +1,1 @@
+# Generate similar sentences from a given Hindi text input.
